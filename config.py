@@ -1,0 +1,12 @@
+# Upbit API keys (fill in later)
+UPBIT_ACCESS_KEY = ""
+UPBIT_SECRET_KEY = ""
+
+# Trading parameters
+TRADING_PAIRS = ["KRW-BTC", "KRW-ETH", "KRW-XRP"]
+RSI_PERIOD = 14
+RSI_OVERSOLD = 30
+RSI_OVERBOUGHT = 70
+MA_SHORT = 5
+MA_LONG = 20
+TRADE_AMOUNT_KRW = 100000  # 10만원 per trade
